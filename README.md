@@ -17,18 +17,47 @@ All projects use a Lagos/Abuja Supermarket sales dataset (LEAD SUPERMARKET)
 analysed across branches in Lekki, Victoria Island and Surulere.
 
 
+# PROJECT.
 
 # Retail-Inventory-Analysis-System
 An automated end-to-end retail management system built in Excel, featuring real-time inventory tracking, profit margin analysis, and a CEO sales dashboard
 
-Project Title: Automated-Supermarket-Management-System.
+# Project Title: 
+Automated-Supermarket-Management-System. Retail Inventory & Sales Intelligence System
 
-The Problem: Manual stock-taking and hidden profit margins in a 100-item retail environment.
+# Position: 
+Data-Driven Inventory Manager Analyst
 
-The Solution: Built a 3-sheet integrated system using XLOOKUP for automation and SUMIF for live inventory tracking.
+# Stack:
+Microsoft Excel (Advanced), PivotTables, XLOOKUP, SUMIF Logic
 
-Key Features:
-1, Automated Unit Cost & Profit calculation.
-2, Real-time "Current Stock" tracking against "Opening Stock."
-3, Conditional Formatting "Red Flags" for low inventory.
-4, PivotTable Sales Dashboard for management insights.
+# Project Overview
+Developed an end-to-end automated management system for a 200-items retail environment. This project bridges the gap between raw sales entry and executive business intelligence.
+
+# The Problem:
+Manual stock-taking and hidden profit margins in a 100-item retail environment.
+
+# The Solution: 
+Built a 3-sheet integrated system using XLOOKUP for automation and SUMIF for live inventory tracking.
+
+# Automated Data Architecture: 
+Integrated multiple workbooks using XLOOKUP for real-time unit cost and selling price retrieval.
+
+# Dynamic Inventory Tracking: 
+Implemented SUMIF logic to calculate Current Stock by subtracting total sales from opening inventory.
+
+# Profit Analytics: 
+Engineered a custom formula to calculate Net Profit per transaction, accounting for quantity and unit cost.
+
+# CEO Dashboard: 
+Created a PivotTable-driven reporting interface for high-level revenue and profit visualization
+
+# Key Features:
+✅ Automated Unit Cost & Profit calculation.
+✅ Real-time "Current Stock" tracking against "Opening Stock."
+✅ Conditional Formatting "Red Flags" for low inventory.
+✅ PivotTable Sales Dashboard for management insights.
+✅Real-time Stock Alerts: Conditional formatting "Red Flags" for low inventory.
+✅ Business Health Monitoring: Automated Profit Margin % tracking.
+✅ Data Integrity: Used Official Excel Tables (Ctrl + T) to ensure formula persistence and scalability.
+
