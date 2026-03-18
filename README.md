@@ -57,10 +57,16 @@ Created a PivotTable-driven reporting interface for high-level revenue and profi
 
 # Key Features:
 ✅ Automated Unit Cost & Profit calculation.
+
 ✅ Real-time "Current Stock" tracking against "Opening Stock."
+
 ✅ Conditional Formatting "Red Flags" for low inventory.
+
 ✅ PivotTable Sales Dashboard for management insights.
+
 ✅Real-time Stock Alerts: Conditional formatting "Red Flags" for low inventory.
+
 ✅ Business Health Monitoring: Automated Profit Margin % tracking.
+
 ✅ Data Integrity: Used Official Excel Tables (Ctrl + T) to ensure formula persistence and scalability.
 
