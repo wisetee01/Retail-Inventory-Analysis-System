@@ -4,8 +4,9 @@
 - ✅ Excel — Sales reporting, pivot tables, charts,real-time inventory tracking, profit margin analysis, and a CEO sales dashboard.
 - 🔄 SQL — Database queries and joins (in progress)
 - 🔄 Python Pandas — Data cleaning and automation (in progress)
-- 🔄 Power BI — Interactive dashboards (in progress)
-- 🔄 Statistics — Trend analysis and forecasting (in progress)
+- ✅ Power BI — Interactive dashboards
+- ✅ Statistics — Trend analysis and forecasting
+- 
 
 ## Tools Used
 Excel | SQL | Python | Pandas | Power BI | Matplotlib | Statistics
